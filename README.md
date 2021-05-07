@@ -8,7 +8,7 @@ Fine tuning data 1: [Kaggle](https://www.kaggle.com/andradaolteanu/rickmorty-scr
 
 Fine tuning data 2: [Kaggle](https://www.kaggle.com/mikhailgaerlan/spongebob-squarepants-completed-transcripts)
 
-Model download: [Google dirve](https://huggingface.co/ainize/gpt2-rnm-with-spongebob)
+Model download: [Hugging face](https://huggingface.co/ainize/gpt2-rnm-with-spongebob)
 
 Fine-tuning notebook: [colab](https://colab.research.google.com/drive/1IYSfeqYePWnU9yMJDLAAZRZDKAcXa2ft#scrollTo=KUsyn02WWmf5)
 
